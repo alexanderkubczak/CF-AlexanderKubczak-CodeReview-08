@@ -1,0 +1,21 @@
+.sellWrapper{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	width: 70%;
+	margin-top: 70vw;
+}
+
+.sellHead{
+	margin-bottom: 5vw;
+	font-size: 150%;
+}
+
+.sellInput{
+	width: 15vw;
+	height: 3vw;
+	margin-bottom: 2vw;
+	border: 1px solid black;
+	border-radius: 1vw;
+	font-size: 150%;
+}

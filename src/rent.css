@@ -1,0 +1,21 @@
+.rentWrapper{
+	margin-top: 70vw;
+	width: 80%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+	.housePic{
+		width: 325px;
+		margin-bottom: 1vw;
+		border-radius: 0.5vw;
+		height: 200px;
+	}
+
+	.House{
+		text-align: left;
+		margin-bottom: 5vw;
+	}
+
+	
+

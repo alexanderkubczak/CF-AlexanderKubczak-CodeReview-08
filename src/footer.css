@@ -1,0 +1,14 @@
+.footerWrap{
+	width: 100%;
+	height: 10vw;
+	background-color: #C6DCF2;
+}
+
+	.footerPic{
+	width: 300px;
+	height: 250px;
+}
+
+	.footerText{
+		justify-content: center;
+}

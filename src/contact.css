@@ -1,0 +1,18 @@
+.contactWrapper{
+	width: 40%;
+	margin-top: 70vw;
+	text-align: center;
+	border: 5px solid #C6DCF2;
+	border-radius: 5vw;
+	box-shadow: 0px 5px 10px 0px grey;
+	
+}
+
+.contactUs{
+	font-size: 300%;
+}
+
+.contP{
+	margin-bottom: 2vw;
+}
+

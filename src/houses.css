@@ -1,0 +1,29 @@
+.Housewrapper{
+	margin-top: 70vw;
+	width: 80%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	opacity: 1;
+}
+	.housePic{
+		width: 325px;
+		margin-bottom: 1vw;
+		border-radius: 0.5vw;
+		height: 200px;
+	}
+
+	.House{
+		text-align: left;
+		margin-bottom: 5vw;
+	}
+
+	.listings{
+		background-color: transparent;
+		width: 20vw;
+		height: 5vw;
+		margin-right: 37.5%;
+		border: 2px solid #C6DCF2;
+		border-radius: 2vw;
+		color: #C6DCF2;
+	}
